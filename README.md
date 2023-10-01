@@ -11,9 +11,18 @@ Deskripsi singkat tentang aplikasi tsb.
 
 
 ## Instalasi
-
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
+
+#### Kebutuhan Sistem
+- Linux OS
+- Web Server (Kami menggunakan Google Cloud Virtual Machine)
+- MySQL
+
+#### Cara Instalasi
+1. Lorem Ipsum
+2. Lorem Lorem
+
 
 
 ## Konfigurasi (opsional)
