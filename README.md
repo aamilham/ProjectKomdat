@@ -52,7 +52,14 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Cara Pemakaian
+Penggunaan PS Leantime sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
+1. Sebelum menggunakan Leantime, kita harus login pada halaman login Leantime
+   
+   ![Login Page](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 
+2. Setelah login, kita akan masuk ke halaman Home. Di sini kita bisa melihat To-Dos, Kalender, dan Project kita
+   
+   ![Home Page](Img/home.png)
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
