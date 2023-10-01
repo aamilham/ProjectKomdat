@@ -1,5 +1,6 @@
 # ProjectKomdat
 Tugas Projek sesi UTS mata kuliah Komdat kelompok 4
+Dapat diakses di http://34.101.90.55:8008/
 
 # Aplikasi Web "XYZ"
 
