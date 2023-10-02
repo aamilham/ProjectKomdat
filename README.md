@@ -49,7 +49,7 @@ jika terdapat masalah tidak bisa menyambung kedalam database lakukan
 ```
 docker compose down -v
 ```
-![no connection database](Img/no-connect-database.png)
+![no connection database](Img/no-connect-database.png) <br />
 lalu build kembali
 
 ##### Cara kedua menggunakan docker run
@@ -83,9 +83,13 @@ ubah isi dari docker-compose.yml
 ```
 nano docker-compose.yml
 ```
-- ganti ports pada bagian leantime menjadi yang diinginkan, semisalnya "8008:80" atau "80:80" <br />
-- buat ports pada bagian services, masukkan "3306:3006" agar memastikan database tersambung
+- ganti ports pada bagian leantime menjadi yang diinginkan, semisalnya **"8008:80"** atau "80:80" <br />
+- buat ports pada bagian services, masukkan **"3306:3006"** agar memastikan database tersambung
 
+#### 4. Instalasi WebApp
+saat kita membuka web pertama kali, yang akan muncul adalah instalasi untuk akun dari admin <br />
+silahkan isi sesuai yang diinginkan, setelahnya akan diarahkan kedalam page login dan semua instalasi telah **selesai** <br />
+![install](Img/instalasi.png)
 
 
 ## Konfigurasi (opsional)
