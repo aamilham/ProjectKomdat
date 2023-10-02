@@ -1,5 +1,6 @@
 # ProjectKomdat
 Tugas Projek sesi UTS mata kuliah Komdat kelompok 4
+
 ![image](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 Dapat diakses di http://34.101.90.55:8008/
 
@@ -40,6 +41,7 @@ ubah file .env sesuai yang kita inginkan
 nano .env
 ```
 disini kita bisa mengubah pengaturan database & container
+
 ![config env](Img/config-env.png)
 lalu build
 ```
@@ -85,11 +87,13 @@ nano docker-compose.yml
 ```
 - ganti ports pada bagian leantime menjadi yang diinginkan, semisalnya **"8008:80"** atau "80:80" <br />
 - buat ports pada bagian services, masukkan **"3306:3006"** agar memastikan database tersambung <br />
+
 ![ports](Img/ports.png)
 
 #### 4. Instalasi WebApp
 saat kita membuka web pertama kali, yang akan muncul adalah instalasi untuk akun dari admin <br />
 silahkan isi sesuai yang diinginkan, setelahnya akan diarahkan kedalam page login dan semua instalasi telah **selesai** <br />
+
 ![install](Img/instalasi.png)
 
 
