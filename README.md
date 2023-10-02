@@ -49,6 +49,7 @@ jika terdapat masalah tidak bisa menyambung kedalam database lakukan
 ```
 docker compose down -v
 ```
+![no connection database](Img/no-connect-database.png)
 lalu build kembali
 
 ##### Cara kedua menggunakan docker run
