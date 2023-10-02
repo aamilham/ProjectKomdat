@@ -235,7 +235,7 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
   
   **Kelebihan**
   
-    1.
+- gua tulis di docs dl bntr bang - fatha
 
   
 - Bandingkan dengan aplikasi web lain yang sejenis
