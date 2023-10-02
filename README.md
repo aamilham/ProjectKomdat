@@ -39,6 +39,7 @@ ubah file .env sesuai yang kita inginkan
 ```
 nano .env
 ```
+disini kita bisa mengubah pengaturan database & container
 ![config env](Img/config-env.png)
 lalu build
 ```
