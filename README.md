@@ -265,6 +265,8 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
      - Leantime tidak bisa melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi.
   3. Tidak disediakannya template manajemen proyek yang bisa digunakan
      - Berbeda dengan beberapa aplikasi manajemen yang populer, pilihan template projek tidak disediakan pada aplikasi Leantime.
+  4. Belum tersedianya versi mobile
+     - Hingga saat ini, Leantime hanya tersedia pada Windows, Mac, Linux, Saas/Web, dan On-Premises. Aplikasi ini belum support pada device mobile seperti Android dan IOS.
     
 
 
