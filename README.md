@@ -137,8 +137,14 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 
 
 # Otomatisasi (opsional)
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
+- Hidupkan server menggunakan docker
+  ```
+  docker-compose -d
+  ```
+- Matikan server yang sedang berjalan
+  ```
+  docker-compose down
+  ```
 
 
 # Cara Pemakaian
