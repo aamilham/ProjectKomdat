@@ -80,8 +80,8 @@ ubah isi dari docker-compose.yml
 ```
 nano docker-compose.yml
 ```
-!ganti ports pada bagian leantime menjadi yang diinginkan, semisalnya "8008:80" atau "80:80" <br />
-!buat ports pada bagian services, masukkan "3306:3006" agar memastikan database tersambung
+-ganti ports pada bagian leantime menjadi yang diinginkan, semisalnya "8008:80" atau "80:80" <br />
+-buat ports pada bagian services, masukkan "3306:3006" agar memastikan database tersambung
 
 
 
