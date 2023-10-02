@@ -53,7 +53,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Cara Pemakaian
-Penggunaan PS Leantime sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
+Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
 1. Sebelum menggunakan Leantime, kita harus login pada halaman login Leantime
    
    ![Login Page](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
@@ -68,12 +68,12 @@ Penggunaan PS Leantime sangat simpel, karena aplikasi ini dilengkapi dengan anta
 
 4. Fitur Notification untuk melihat notifikasi dan mention yang masuk
 
-   ![My Project Page](Img/home.png)
+   ![Notification Page](Img/home.png)
    
-6. Fitur Company, terdapat beberapa pilihan yaitu All Timesheets untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects untuk melihan keseluruhan project yang ada, All client        untuk melihat nama klien, dan User Management untuk melihat ada berapa user atau pengguna website Leantime
+5. Fitur Company, terdapat beberapa pilihan yaitu All Timesheets untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects untuk melihan keseluruhan project yang ada, All client        untuk melihat nama klien, dan User Management untuk melihat ada berapa user atau pengguna website Leantime
 
+   ![Company Page](Img/home.png)
    
-7. 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
