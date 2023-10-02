@@ -58,9 +58,22 @@ Penggunaan PS Leantime sangat simpel, karena aplikasi ini dilengkapi dengan anta
    
    ![Login Page](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 
-2. Setelah login, kita akan masuk ke halaman Home. Di sini kita bisa melihat To-Dos, Kalender, dan Project kita
+2. Setelah login, kita akan masuk ke halaman Home. Di sini kita bisa melihat To-Dos, Kalender, dan Project kita.  
    
    ![Home Page](Img/home.png)
+
+3. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. Fitur My Project untuk melihat project apa saja yang kita miliki
+
+   ![My Project Page](Img/home.png)
+
+4. Fitur Notification untuk melihat notifikasi dan mention yang masuk
+
+   ![My Project Page](Img/home.png)
+   
+6. Fitur Company, terdapat beberapa pilihan yaitu All Timesheets untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects untuk melihan keseluruhan project yang ada, All client        untuk melihat nama klien, dan User Management untuk melihat ada berapa user atau pengguna website Leantime
+
+   
+7. 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
