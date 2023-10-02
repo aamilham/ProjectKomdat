@@ -21,8 +21,10 @@ Deskripsi singkat tentang aplikasi tsb.
 - MySQL
 
 #### Cara Instalasi
-1. Lorem Ipsum
-2. Lorem Lorem
+1. Login kedalam server menggunakan ssh
+```
+ssh komdatkel4@34.101.90.55
+```
 
 
 
