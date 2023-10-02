@@ -8,8 +8,11 @@ Masuk dengan akun guest:
 ![image](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 
 # Aplikasi Web Leantime
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:
+
+![leantime logo](Img/leantime-logo.png)
+
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 
@@ -99,7 +102,7 @@ silahkan isi sesuai yang diinginkan, setelahnya akan diarahkan kedalam page logi
 ![install](Img/instalasi.png)
 
 
-## Konfigurasi (opsional)
+## Konfigurasi
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
 - batas upload file
