@@ -115,6 +115,14 @@ Plugin untuk fungsi tambahan
 - editor Markdown
 - dll
 
+Config tambahan seperti sitename, bahasa, dan timezone
+- Config dapat dilakukan dengan mengubah isi dari .env yang telah di copy sebelumnya
+  ```
+  nano .env
+  ```
+
+  ![config additional](Img/config-additional.png)
+
 Create Account untuk user lain
 - As admin, pergi kedalam opsi user management, disini kita bisa melihat semua user, mengatur semuanya, dan mendaftarkan yang baru
 
