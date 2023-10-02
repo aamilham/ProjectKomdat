@@ -16,7 +16,7 @@ Masuk dengan akun guest:
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+Leantime adalah **strategic open source projet management** yang berfokus untuk membantu perusahaan dan tim yang ingin membuat project management dari awal hingga akhir. Leantime dibuat untuk non-project manager, Leantime menggabungkan perencanaan serta pekerjaan sekaligus sehingga mudah diakses dan digunakan oleh semua orang dalam tim. Leantime merupakan alternatif serta gabungan dari ClickUp, Monday, Asana, dan Trello.
 
 
 ## Instalasi
