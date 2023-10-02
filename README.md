@@ -41,7 +41,7 @@ git clone https://github.com/Leantime/docker-leantime.git
 cd docker-leantime
 cp sample.env .env
 ```
-ubah file .env sesuai yang kita inginkan
+buka file .env untuk mengatur konfigurasi Leantime
 ```
 nano .env
 ```
