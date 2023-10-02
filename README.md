@@ -243,6 +243,9 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
 
-[About Leantime](https://leantime.io/) - Website Leantime
+1. [About Leantime](https://leantime.io/) - Website Leantime
+2. [Trello](https://trello.com/) - Website Trello
+3. [Zoho](https://projects.zoho.com/) - Website Zoho Projects 
+4. [Saasworthy](https://www.saasworthy.com/compare/trello-vs-openproject-vs-leantime?pIds=146,2507,2592) - Compare between Trello and Leantime
+5. [Sourceforget](https://sourceforge.net/software/compare/ClickUp-vs-Leantime-vs-Zoho-Projects/) - Compare between Zoho and Leantime
