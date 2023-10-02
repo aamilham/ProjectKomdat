@@ -124,8 +124,9 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
    ![Company Page](Img/company.png)
 
-6. Fitur **My Profile**. Pada fitur ini kita dapat melihat account settings berupa informasi profil, keamananan, look and feel, dan notification
+6. Fitur **My Profile**. Pada fitur ini kita dapat melihat account settings berupa informasi profil, keamanan, look and feel, dan notification
 
+   ![Profile Page](Img/profile.png)
    
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
