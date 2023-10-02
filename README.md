@@ -231,12 +231,18 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
 # Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
+- Pendapat kami terkait aplikasi ini sebagai berikut:
+  
+  **Kelebihan**
+  
+    1.
+
+  
 - Bandingkan dengan aplikasi web lain yang sejenis
 
 
 ## Referensi
 
 Cantumkan tiap sumber informasi yang anda pakai.
+
+[About Leantime](https://leantime.io/) - Website Leantime
