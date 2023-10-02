@@ -123,6 +123,14 @@ Config tambahan seperti sitename, bahasa, dan timezone
 
   ![config additional](Img/config-additional.png)
 
+SMTP Config
+- Leantime mensupport pengiriman email menggunakan SMTP, cukup ubah pada .env
+  ```
+  nano .env
+  ```
+
+  ![config smtp](Img/config-smtp.png)
+
 Create Account untuk user lain
 - As admin, pergi kedalam opsi user management, disini kita bisa melihat semua user, mengatur semuanya, dan mendaftarkan yang baru
 
