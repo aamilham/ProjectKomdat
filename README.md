@@ -60,21 +60,25 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
    ![Login Page](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 
-2. Setelah login, kita akan masuk ke halaman Home. Di sini kita bisa melihat To-Dos, Kalender, dan Project kita.  
+2. Setelah login, kita akan masuk ke halaman **Home**. Di sini kita bisa melihat To-Dos, Kalender, dan Project kita.  
    
    ![Home Page](Img/home.png)
 
-3. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. Fitur My Project untuk melihat project apa saja yang kita miliki
+3. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
 
-   ![My Project Page](Img/home.png)
+   ![My Project Page](Img/myproject.png)
 
-4. Fitur Notification untuk melihat notifikasi dan mention yang masuk
+4. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk
 
-   ![Notification Page](Img/home.png)
+   ![Notification Page](Img/notification.png)
    
-5. Fitur Company, terdapat beberapa pilihan yaitu All Timesheets untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects untuk melihan keseluruhan project yang ada, All client        untuk melihat nama klien, dan User Management untuk melihat ada berapa user atau pengguna website Leantime
+5. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects berguna untuk melihat keseluruhan project yang
+   ada, All client berguna untuk melihat nama klien, dan User Management berguna untuk melihat ada berapa user atau pengguna website Leantime
 
-   ![Company Page](Img/home.png)
+   ![Company Page](Img/company.png)
+
+6. Fitur **My Profile**. Pada fitur ini kita dapat melihat account settings berupa informasi profil, keamananan, look and feel, dan notification
+
    
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
