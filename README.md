@@ -262,7 +262,7 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
        ![disav1](Img/disav1.png)
        
   2. Kurangnya integrasi
-     - Leantime tidak bisa melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi.
+     - Leantime nelum bisa banyak melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi. Beberapa alat tambahan yang bisa digunakan dari luar yaitu Google Calendar dan Slack
   3. Tidak disediakannya template manajemen proyek yang bisa digunakan
      - Berbeda dengan beberapa aplikasi manajemen yang populer, pilihan template projek tidak disediakan pada aplikasi Leantime.
   4. Belum tersedianya versi mobile
@@ -282,6 +282,11 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
      - Berbeda dengan Leantime, Trello memberikan beberapa template project kepada penggunanya. Fitur ini tidak bisa ditemukan pada Leantime sehingga pengguna perlu menyusun dari awal tampilan manajemen proyeknya.
     
        ![disav1](Img/trello2.png)
+
+  3. Zoho memiliki integrasi yang lebih beragam dari pada Leantime
+     - Beberapa alat tambahan yang bisa digunakan dalam zoho seperti Github, Google Calendar, Slack, Microsoft Onedrive, dan Microsoft Teams.
+
+    
        
 
 
