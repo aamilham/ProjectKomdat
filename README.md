@@ -231,11 +231,12 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
 # Pembahasan
 
-- Pendapat kami terkait aplikasi ini sebagai berikut:
+Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif dan efisien, memiliki beberapa kelebihan dan kekurangan sebagai berikut
   
   **Kelebihan**
-  
-- gua tulis di docs dl bntr bang - fatha
+  1. Antarmuka pengguna yang ramah
+     - Leantime memiliki antar pengguna yang bersih dan mudah digunakan sehingga memudahkan pengguna baru dalam menggunakan aplikasi ini.
+       
 
   
 - Bandingkan dengan aplikasi web lain yang sejenis
