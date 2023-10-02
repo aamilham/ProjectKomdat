@@ -265,6 +265,22 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
      - Leantime tidak bisa melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi.
   3. Tidak disediakannya template manajemen proyek yang bisa digunakan
      - Berbeda dengan beberapa aplikasi manajemen yang populer, pilihan template projek tidak disediakan pada aplikasi Leantime.
+    
+
+
+  **Aplikasi serupa**
+  
+  Pada kali ini, kami ingin membandingkan fitur yang dimiliki Leantime dengan oleh Trello dan Zoho. Ketiga aplikasi tersebut memiliki fungsi yang sama, yaitu sebagai manajemen proyek tim. Berikut beberapa uraiannya
+  1. Trello memiliki fitur otomatisasi yang disebut Butler
+     - Butler adalah fitur otomatisasi yang dapat membantu pengguna Trello dengan tugas-tugas berulang. Tugas tersebut dapat berupa memindahkan kartu, menambahkan komentar, mengubah tanggal tenggat waktu, mengiri email, menambahkkan label, dan yang lainnya. Fitur ini tidak bisa didapatkan pada Leantime
+
+       ![disav1](Img/trello1.png)
+
+  2. Trello memberkan project template kepada penggunanya
+     - Berbeda dengan Leantime, Trello memberikan beberapa template project kepada penggunanya. Fitur ini tidak bisa ditemukan pada Leantime sehingga pengguna perlu menyusun dari awal tampilan manajemen proyeknya.
+    
+       ![disav1](Img/trello2.png)
+       
 
 
 ## Referensi
