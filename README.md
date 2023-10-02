@@ -9,7 +9,7 @@ Masuk dengan akun guest:
 
 # Aplikasi Web Leantime
 
-<h1 align="center">![leantime logo](Img/leantime-logo.png)</h1>
+<h1 align="center"> <img src="Img/leantime-logo.png"> </h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:
