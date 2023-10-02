@@ -25,6 +25,53 @@ Deskripsi singkat tentang aplikasi tsb.
 ```
 ssh komdatkel4@34.101.90.55
 ```
+#### 2. Instalasi terbagi 2, pertama instan menggunakan docker compose dan template yang sudah disediakan, dan yang kedua menggunakan docker run serta manual untuk mengatur databasenya
+
+##### Cara Pertama menggunakan docker compose
+```
+git clone https://github.com/Leantime/docker-leantime.git
+cd docker-leantime
+cp sample.env .env
+```
+ubah file .env sesuai yang kita inginkan
+```
+nano .env
+```
+lalu build
+```
+docker compose up --build
+```
+jika terdapat masalah tidak bisa menyambung kedalam database lakukan
+```
+docker compose down -v
+```
+lalu build kembali
+
+##### Cara kedua menggunakan
+buat network agar leantime dapat tersambung dengan container MySQL
+```
+docker network create leantime-net
+```
+buatlah database MySQL, ubahlah sesuai yang diinginkan
+```
+docker run -d --restart unless-stopped -p 3306:3306 --network leantime-net \
+-e MYSQL_ROOT_PASSWORD=321.qwerty \
+-e MYSQL_DATABASE=leantime \
+-e MYSQL_USER=admin \
+-e MYSQL_PASSWORD=321.qwerty \
+--name mysql_leantime mysql:8.0 --character-set-server=UTF8MB4 --collation-server=UTF8MB4_unicode_ci
+```
+buatlah container untuk leantime
+```
+docker run -d --restart unless-stopped -p 80:80 --network leantime-net \
+-e LEAN_DB_HOST=mysql_leantime \
+-e LEAN_DB_USER=admin \
+-e LEAN_DB_PASSWORD=321.qwerty \
+-e LEAN_DB_DATABASE=leantime \
+--name leantime leantime/leantime:latest
+```
+jalankan instalasi dengan `domain.com/install`
+
 
 
 
