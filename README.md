@@ -1,5 +1,6 @@
 # ProjectKomdat
 Tugas Projek sesi UTS mata kuliah Komdat kelompok 4
+![image](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 Dapat diakses di http://34.101.90.55:8008/
 
 # Aplikasi Web "XYZ"
