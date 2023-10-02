@@ -262,7 +262,7 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
        ![disav1](Img/disav1.png)
        
   2. Kurangnya integrasi
-     - Leantime nelum bisa banyak melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi. Beberapa alat tambahan yang bisa digunakan dari luar yaitu Google Calendar dan Slack
+     - Leantime nelum bisa banyak melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi. Beberapa alat tambahan yang bisa digunakan dari luar yaitu Google Calendar dan Slack.
   3. Tidak disediakannya template manajemen proyek yang bisa digunakan
      - Berbeda dengan beberapa aplikasi manajemen yang populer, pilihan template projek tidak disediakan pada aplikasi Leantime.
   4. Belum tersedianya versi mobile
@@ -272,28 +272,31 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
 
   **Aplikasi serupa**
   
-  Pada kali ini, kami ingin membandingkan fitur yang dimiliki Leantime dengan oleh Trello dan Zoho. Ketiga aplikasi tersebut memiliki fungsi yang sama, yaitu sebagai manajemen proyek tim. Berikut beberapa uraiannya
+  Pada kali ini, kami ingin membandingkan fitur yang dimiliki Leantime dengan oleh Trello dan Zoho. Beberapa fitur yang sama-sama dimiliki oleh ketiga aplikasi tersebut meliputi pelacakan tugas, tenggat waktu, progress proyek, dan kolaborasi dengan tim. Namun jika dibandingkan, terdapat beberapa perbedaan yang dimiliki. Berikut uraiannya
   1. Trello memiliki fitur otomatisasi yang disebut Butler
-     - Butler adalah fitur otomatisasi yang dapat membantu pengguna Trello dengan tugas-tugas berulang. Tugas tersebut dapat berupa memindahkan kartu, menambahkan komentar, mengubah tanggal tenggat waktu, mengiri email, menambahkkan label, dan yang lainnya. Fitur ini tidak bisa didapatkan pada Leantime
+     - Butler adalah fitur otomatisasi yang dapat membantu pengguna Trello dengan tugas-tugas berulang. Tugas tersebut dapat berupa memindahkan kartu, menambahkan komentar, mengubah tanggal tenggat waktu, mengiri email, menambahkkan label, dan yang lainnya. Fitur ini tidak bisa didapatkan pada Leantime.
 
-       ![disav1](Img/trello1.png)
+       ![trello1](Img/trello1.png)
 
   2. Trello memberkan project template kepada penggunanya
      - Berbeda dengan Leantime, Trello memberikan beberapa template project kepada penggunanya. Fitur ini tidak bisa ditemukan pada Leantime sehingga pengguna perlu menyusun dari awal tampilan manajemen proyeknya.
     
-       ![disav1](Img/trello2.png)
+       ![trello2](Img/trello2.png)
 
   3. Zoho memiliki integrasi yang lebih beragam dari pada Leantime
-     - Beberapa alat tambahan yang bisa digunakan dalam zoho seperti Github, Google Calendar, Slack, Microsoft Onedrive, dan Microsoft Teams.
+     - Beberapa alat tambahan yang bisa digunakan dalam zoho seperti Github, Google Calendar, Slack, Microsoft Onedrive, Microsoft Teams, dan lain-lain.
 
-    
+        ![zoho1](Img/Zoho-Projects-integration.jpg)
+
+  4. Zoho tidak menawarkan API seperti Leantime
+     - API (Application Programming Interface) pada Leantime adalah sekumpulan fungsi yang dapat digunakan untuk berinteraksi dengan data Leantime dari aplikasi pihak ketiga. API Leantime memungkinkan pengguna untuk mengakses data Leantime, seperti proyek, tugas, dan catatan, untuk tujuan integrasi, pengembangan, dan otomatisasi. Ada dua cara untuk menggunakan API Leantime, yaitu melalui HTTP dan SDK.
        
 
 
 ## Referensi
 
 
-1. [About Leantime](https://leantime.io/) - Website Leantime
+1. [Leantime](https://leantime.io/) - Website Leantime
 2. [Trello](https://trello.com/) - Website Trello
 3. [Zoho](https://projects.zoho.com/) - Website Zoho Projects 
 4. [Saasworthy](https://www.saasworthy.com/compare/trello-vs-openproject-vs-leantime?pIds=146,2507,2592) - Compare between Trello and Leantime
