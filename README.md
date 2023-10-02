@@ -11,8 +11,8 @@ Masuk dengan akun guest:
 
 <h1 align="center"> <img src="Img/leantime-logo.png"> </h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 
@@ -152,7 +152,7 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 - dll
 
 
-# Otomatisasi (opsional)
+# Otomatisasi
 - Hidupkan server menggunakan docker
   ```
   docker-compose -d
