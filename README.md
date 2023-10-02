@@ -22,9 +22,9 @@ Leantime adalah **strategic open source projet management** yang berfokus untuk 
 # Instalasi
 
 ## Kebutuhan Sistem
-- Linux OS
+- PHP 8.0+
 - Web Server (Kami menggunakan Google Cloud Virtual Machine)
-- MySQL
+- MySQL 5.7+
 
 ## Langkah Instalasi
 
