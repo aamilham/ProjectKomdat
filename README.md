@@ -2,8 +2,8 @@
 Tugas Projek sesi UTS mata kuliah Komdat kelompok 4, Dapat diakses di http://34.101.90.55:8008/
 
 Masuk dengan akun guest:
--Guest Editor : guest1@gmail.com | Guest1--
--Guest Read Only : guest2@gmail.com | Guest2--
+- Guest Editor : guest1@gmail.com | Guest1--
+- Guest Read Only : guest2@gmail.com | Guest2--
 
 ![image](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 
@@ -111,6 +111,18 @@ Plugin untuk fungsi tambahan
 - editor Markdown
 - dll
 
+Create Account untuk user lain
+- As admin, pergi kedalam opsi user management, disini kita bisa melihat semua user, mengatur semuanya, dan mendaftarkan yang baru
+
+  ![user management](Img/user-management.png)
+
+- Pilih add user dan setting user baru sesuai yang diinginkan, serta role sang user
+
+  ![add user](Img/add-user.png)
+
+- Akan ada invitation link yang berisikan pengaturan password untuk akun baru
+
+  ![create acc](Img/create-acc.png)
 
 ##  Maintenance (opsional)
 
