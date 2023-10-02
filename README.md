@@ -47,7 +47,7 @@ docker compose down -v
 ```
 lalu build kembali
 
-##### Cara kedua menggunakan
+##### Cara kedua menggunakan docker run
 buat network agar leantime dapat tersambung dengan container MySQL
 ```
 docker network create leantime-net
