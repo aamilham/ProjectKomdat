@@ -143,6 +143,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 # Cara Pemakaian
 Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
+
 1. Sebelum menggunakan Leantime, kita harus login pada halaman login Leantime
    
    ![Login Page](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
@@ -150,6 +151,39 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 2. Setelah login, kita akan masuk ke halaman **Home**. Di sini kita bisa melihat To-Dos, Kalender, dan Project kita.  
    
    ![Home Page](Img/home.png)
+   
+1. Menu **Project Overview/Dasboard** blablabla
+
+   isi gambar disini
+   
+3. Menu **Make** blablabla
+
+   a. **Fitur To Dos** blablabla
+   
+   b. **Fitur Goals** blablabla
+  
+
+   isi gambar disini
+   
+5. Menu **Think** blablabla
+  
+   a. **Fitur Ideas** blablabla
+
+   b. **Fitur Blueprints** blablabla
+
+   c. **Fitur Retrospectives** blablabla
+   
+   isi gambar disini
+   
+8. Menu **Data ROOM** blablabla
+   
+   a. **Fitur Docs** blablabla
+
+   b. **Fitur Files** blablabla
+
+   c. **Fitur Reports** blablabla
+
+   isi gambar disini
 
 3. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
 
