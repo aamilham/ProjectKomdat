@@ -13,15 +13,13 @@ Deskripsi singkat tentang aplikasi tsb.
 
 
 ## Instalasi
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
 
 ### Kebutuhan Sistem
 - Linux OS
 - Web Server (Kami menggunakan Google Cloud Virtual Machine)
 - MySQL
 
-### Cara Instalasi
+### Langkah Instalasi
 
 #### 1. Login kedalam server menggunakan ssh
 ```
