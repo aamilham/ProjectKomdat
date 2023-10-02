@@ -21,10 +21,12 @@ Deskripsi singkat tentang aplikasi tsb.
 - MySQL
 
 ### Cara Instalasi
+
 #### 1. Login kedalam server menggunakan ssh
 ```
 ssh komdatkel4@34.101.90.55
 ```
+
 #### 2. Instalasi terbagi 2, pertama instan menggunakan docker compose dan template yang sudah disediakan, dan yang kedua menggunakan docker run serta manual untuk mengatur databasenya
 
 ##### Cara Pertama menggunakan docker compose
@@ -72,6 +74,14 @@ docker run -d --restart unless-stopped -p 80:80 --network leantime-net \
 ```
 jalankan instalasi dengan `domain.com/install`
 
+
+#### 3. Pengaturan port yang diinginkan
+ubah isi dari docker-compose.yml
+```
+nano docker-compose.yml
+```
+!ganti ports pada bagian leantime menjadi yang diinginkan, semisalnya "8008:80" atau "80:80" <br />
+!buat ports pada bagian services, masukkan "3306:3006" agar memastikan database tersambung
 
 
 
