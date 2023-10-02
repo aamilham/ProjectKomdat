@@ -14,28 +14,28 @@ Masuk dengan akun guest:
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:
 
-## Sekilas Tentang
+# Sekilas Tentang
 
 Leantime adalah **strategic open source projet management** yang berfokus untuk membantu perusahaan dan tim yang ingin membuat project management dari awal hingga akhir. Leantime dibuat untuk non-project manager, Leantime menggabungkan perencanaan serta pekerjaan sekaligus sehingga mudah diakses dan digunakan oleh semua orang dalam tim. Leantime merupakan alternatif serta gabungan dari ClickUp, Monday, Asana, dan Trello.
 
 
-## Instalasi
+# Instalasi
 
-### Kebutuhan Sistem
+## Kebutuhan Sistem
 - Linux OS
 - Web Server (Kami menggunakan Google Cloud Virtual Machine)
 - MySQL
 
-### Langkah Instalasi
+## Langkah Instalasi
 
-#### 1. Login kedalam server menggunakan ssh
+### 1. Login kedalam server menggunakan ssh
 ```
 ssh komdatkel4@34.101.90.55
 ```
 
-#### 2. Instalasi terbagi 2, pertama instan menggunakan docker compose dan template yang sudah disediakan, dan yang kedua menggunakan docker run serta manual untuk mengatur databasenya
+### 2. Instalasi terbagi 2, pertama instan menggunakan docker compose dan template yang sudah disediakan, dan yang kedua menggunakan docker run serta manual untuk mengatur databasenya
 
-##### Cara Pertama menggunakan docker compose
+#### Cara Pertama menggunakan docker compose
 ```
 git clone https://github.com/Leantime/docker-leantime.git
 cd docker-leantime
@@ -48,6 +48,7 @@ nano .env
 disini kita bisa mengubah pengaturan database & container
 
 ![config env](Img/config-env.png)
+
 lalu build
 ```
 docker compose up --build
@@ -59,7 +60,7 @@ docker compose down -v
 ![no connection database](Img/no-connect-database.png) <br />
 lalu build kembali
 
-##### Cara kedua menggunakan docker run
+#### Cara kedua menggunakan docker run
 buat network agar leantime dapat tersambung dengan container MySQL
 ```
 docker network create leantime-net
@@ -85,7 +86,7 @@ docker run -d --restart unless-stopped -p 80:80 --network leantime-net \
 jalankan instalasi dengan `domain.com/install`
 
 
-#### 3. Pengaturan port yang diinginkan
+### 3. Pengaturan port yang diinginkan
 ubah isi dari docker-compose.yml
 ```
 nano docker-compose.yml
@@ -95,14 +96,14 @@ nano docker-compose.yml
 
 ![ports](Img/ports.png)
 
-#### 4. Instalasi WebApp
+### 4. Instalasi WebApp
 saat kita membuka web pertama kali, yang akan muncul adalah instalasi untuk akun dari admin <br />
 silahkan isi sesuai yang diinginkan, setelahnya akan diarahkan kedalam page login dan semua instalasi telah **selesai** <br />
 
 ![install](Img/instalasi.png)
 
 
-## Konfigurasi
+# Konfigurasi
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
 - batas upload file
@@ -127,7 +128,7 @@ Create Account untuk user lain
 
   ![create acc](Img/create-acc.png)
 
-##  Maintenance (opsional)
+#  Maintenance (opsional)
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
 - buat backup database tiap pekan
@@ -135,12 +136,12 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 - dll
 
 
-## Otomatisasi (opsional)
+# Otomatisasi (opsional)
 
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
-## Cara Pemakaian
+# Cara Pemakaian
 Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
 1. Sebelum menggunakan Leantime, kita harus login pada halaman login Leantime
    
@@ -172,7 +173,7 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
-## Pembahasan
+# Pembahasan
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
