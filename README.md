@@ -1,11 +1,11 @@
 # ProjectKomdat
-Tugas Projek sesi UTS mata kuliah Komdat kelompok 4
+Tugas Projek sesi UTS mata kuliah Komdat kelompok 4, Dapat diakses di http://34.101.90.55:8008/
 
 ![image](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
-Dapat diakses di http://34.101.90.55:8008/
 
-# Aplikasi Web "XYZ"
-
+# Aplikasi Web Leantime
+[Sekilas Tentang](##sekilas-tentang) | [Instalasi](##instalasi) | [Cara Pemakaian](##cara-pemakaian) | [Pembahasan](##pembahasan) | [Referensi](##referensi)
+:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 
