@@ -39,7 +39,7 @@ ubah file .env sesuai yang kita inginkan
 ```
 nano .env
 ```
-![config env](img/config-env.png)
+![config env](Img/config-env.png)
 lalu build
 ```
 docker compose up --build
