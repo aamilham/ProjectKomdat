@@ -158,8 +158,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    ![Home Page](Img/home.png)
    
 1. Menu **Project Overview/Dasboard**. Fitur ini memberikan visibilitas proyek kepada semua pihak dengan Project Checklist, Latest To-Dos, Daftar team proyek, Project progress Diagram, dan Project Updates, Milestones Proyek.
-
-   isi gambar disini
+  ![Dashboard}(https://github.com/aamilham/ProjectKomdat/blob/main/Img/Project%20Overview.png)
    
 3. Menu **Make**. Fitur ini berisi:
    
