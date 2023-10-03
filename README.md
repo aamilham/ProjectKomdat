@@ -197,7 +197,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
       ![Retrospectives](Img/Retrospectives.png)
    
-6. Menu **Data ROOM**. Fitur ini berisi:
+6. Menu **Data Room**. Fitur ini berisi:
    
    a. **Fitur Docs**. Fitur ini mengelola dan menyimpan dokumen proyek, memudahkan akses dan kerja sama tim dalam pengembangan dan pelaksanaan proyek dengan mengunggah, mengedit, dan berbagi dokumen.
 
