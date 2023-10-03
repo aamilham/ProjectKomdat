@@ -207,7 +207,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
       ![Files](Img/Files.png)
 
-   c. **Fitur Reports**. Fitur ini berisi laporan proyek seperti Summary, Sprint Burndown, Cumulative Flow, dan Project Progress yang dapat membantu tim dalam memantau kemajuan proyek dan pengambilan keputusan yang tepat
+   c. **Fitur Reports**. Fitur ini berisi laporan proyek seperti Summary, Sprint Burndown, Cumulative Flow, dan Project Progress yang dapat membantu tim dalam memantau kemajuan proyek dan pengambilan keputusan yang tepat.
 
       ![Reports](Img/Reports.png)
    
