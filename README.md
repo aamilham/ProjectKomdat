@@ -105,16 +105,6 @@ silahkan isi sesuai yang diinginkan, setelahnya akan diarahkan kedalam page logi
 
 # Konfigurasi
 
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
 Config tambahan seperti sitename, bahasa, dan timezone
 - Config dapat dilakukan dengan mengubah isi dari .env yang telah di copy sebelumnya
   ```
@@ -144,18 +134,11 @@ Create Account untuk user lain
 
   ![create acc](Img/create-acc.png)
 
-#  Maintenance (opsional)
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
-
 
 # Otomatisasi
 - Hidupkan server menggunakan docker
   ```
-  docker-compose -d
+  docker-compose up -d
   ```
 - Matikan server yang sedang berjalan
   ```
