@@ -149,7 +149,7 @@ Create Account untuk user lain
 # Cara Pemakaian
 Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
 
-1. Sebelum menggunakan Leantime, kita harus login pada halaman login Leantime
+1. Sebelum menggunakan Leantime, kita harus login pada halaman login Leantime.
    
    ![Login Page](https://github.com/aamilham/ProjectKomdat/assets/88355248/bee3c882-415f-49e9-acbc-f9379bfd2551)
 
@@ -212,21 +212,21 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
       ![Reports](Img/Reports.png)
    
 7. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. Fitur **My Profile** digunakan untuk melihat account settings berupa informasi profil, 
-   keamanan, look and feel, dan notifikasi
+   keamanan, look and feel, dan notifikasi.
 
    ![Profile Page](Img/profile.png)
 
-8. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
+8. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki.
 
    ![My Project Page](Img/myproject.png)
    
 9. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects 
    berguna untuk melihat keseluruhan project yang ada, All client berguna untuk melihat nama klien, dan User Management berguna untuk melihat ada berapa user atau pengguna 
-   website Leantime
+   website Leantime.
 
    ![Company Page](Img/company.png)
 
-10. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk
+10. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk.
 
       ![Notification Page](Img/notification.png)
    
