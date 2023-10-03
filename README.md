@@ -236,20 +236,20 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif dan efisien, memiliki beberapa kelebihan dan kekurangan sebagai berikut
   
   **Kelebihan**
-  **1. Antarmuka pengguna yang ramah**
+  1. Antarmuka pengguna yang ramah
      - Leantime memiliki antar pengguna yang bersih dan mudah digunakan sehingga memudahkan pengguna baru dalam menggunakan aplikasi ini.
        
        ![benef1](Img/Kanban.png)
   
-  **2. Manajemen tugas yang baik**
+  2. Manajemen tugas yang baik
      - Aplikasi Leantime memungkinkan tim untuk membuat, mengedit, dan mengatur tugas-tugas proyek yang ada sehingga dapat mengikuti perkembangan progress dengan baik.
 
-  **3. Bisa membantu memperkirakan biaya proyek atau produktivitas dengan fitur pelacakan waktu**
+  3. Bisa membantu memperkirakan biaya proyek atau produktivitas dengan fitur pelacakan waktu
      - Terdapat fitur pelacakan waktu yang memungkinkan tim untuk mencatat jam kerja mereka pada proyek-proyek tertentu. Hal ini bisa membantu perhitungan upah serta memantau efisiensi dan efektivitas pekerjaan.
 
        ![benef3](Img/Timeline.png)
 
-  **4. Pelaporan dan analisis**
+  4. Pelaporan dan analisis
      - Leantime dapat memberikan laporan proyek dengan mudah. Sehingga bisa membantu dalam pemantauan dan analisis kinerja proyek.
 
        ![benef4](Img/Reports_1.png)
@@ -257,15 +257,17 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
 
 
   **Kekurangan**
-  **1. Terbatasnya versi gratis**
+  1. Terbatasnya versi gratis
      - Leantime memiliki versi gratis, namun memiliki keterbatasan jumlah pengguna, proyek, serta fitur yang dapat digunakan. Untuk menggunakan fitur yang lebih canggih, kita perlu berlangganan dengan incian harga sebagai berikut
 
        ![disav1](Img/Pricing.png)
        
-  **2. Kurangnya integrasi**
+  2. Kurangnya integrasi
      - Leantime nelum bisa banyak melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi. Beberapa alat tambahan yang bisa digunakan dari luar yaitu Google Calendar dan Slack.
+       
   3. Tidak disediakannya template manajemen proyek yang bisa digunakan
      - Berbeda dengan beberapa aplikasi manajemen yang populer, pilihan template projek tidak disediakan pada aplikasi Leantime.
+       
   4. Belum tersedianya versi mobile
      - Hingga saat ini, Leantime hanya tersedia pada Windows, Mac, Linux, Saas/Web, dan On-Premises. Aplikasi ini belum support pada device mobile seperti Android dan IOS.
     
@@ -273,7 +275,8 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
 
   **Aplikasi serupa**
   
-  Pada kali ini, kami ingin membandingkan fitur yang dimiliki Leantime dengan oleh Trello dan Zoho. Beberapa fitur yang sama-sama dimiliki oleh ketiga aplikasi tersebut meliputi pelacakan tugas, tenggat waktu, progress proyek, dan kolaborasi dengan tim. Namun jika ditelaah lebih lanjut, terdapat beberapa perbedaan yang menjadi kelebihan dan kekurangan tiap aplikasi. Berikut uraiannya
+  Pada kali ini, kami ingin membandingkan fitur yang dimiliki Leantime dengan oleh Trello dan Zoho. Beberapa fitur yang sama-sama dimiliki oleh ketiga aplikasi tersebut meliputi pelacakan tugas, tenggat waktu, progress proyek, dan kolaborasi dengan tim. Namun jika ditelaah lebih lanjut, terdapat beberapa perbedaan yang menjadi kelebihan dan kekurangan tiap aplikasi. Berikut uraiannya.
+  
   1. Trello memiliki fitur otomatisasi proyek yang disebut Butler
      - Butler adalah fitur otomatisasi proyek yang dapat membantu pengguna Trello dengan tugas-tugas berulang. Tugas tersebut dapat berupa memindahkan kartu, menambahkan komentar, mengubah tanggal tenggat waktu, mengiri email, menambahkkan label, dan yang lainnya. Fitur ini tidak bisa didapatkan pada Leantime.
 
