@@ -164,7 +164,7 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 
 
 # Cara Pemakaian
-Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
+Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan antarmuka yang sederhana dan mudah dipahami. Berikut ini untuk penjelasan lebih lanjut:
 
 1. Sebelum menggunakan Leantime, kita harus login pada halaman login Leantime
    
@@ -224,20 +224,16 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
    ![Notification Page](Img/notification.png)
    
-5. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects berguna untuk melihat keseluruhan project yang
+6. Fitur **My Profile**. Pada fitur ini kita dapat melihat account settings berupa informasi profil, keamanan, look and feel, dan notifikasi
+
+   ![Profile Page](Img/profile.png)
+
+5. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects 
+   berguna untuk melihat keseluruhan project yang
    ada, All client berguna untuk melihat nama klien, dan User Management berguna untuk melihat ada berapa user atau pengguna website Leantime
 
    ![Company Page](Img/company.png)
-
-6. Fitur **My Profile**. Pada fitur ini kita dapat melihat account settings berupa informasi profil, keamanan, look and feel, dan notification
-
-   ![Profile Page](Img/profile.png)
    
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
-
 # Pembahasan
 
 Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif dan efisien, memiliki beberapa kelebihan dan kekurangan sebagai berikut
