@@ -228,7 +228,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
 10. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk
 
-   ![Notification Page](Img/notification.png)
+      ![Notification Page](Img/notification.png)
    
    
 # Pembahasan
