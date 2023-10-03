@@ -178,34 +178,43 @@ Penggunaan **PS Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
    isi gambar disini
    
-3. Menu **Make** blablabla
-
+3. Menu **Make**
+   
    a. **Fitur To Dos** blablabla
+
+      isi gambar disini
    
    b. **Fitur Goals** blablabla
-  
 
-   isi gambar disini
+      isi gambar disini
    
-5. Menu **Think** blablabla
+5. Menu **Think** 
   
    a. **Fitur Ideas** blablabla
 
+      isi gambar disini
+
    b. **Fitur Blueprints** blablabla
+
+      isi gambar disini
 
    c. **Fitur Retrospectives** blablabla
    
-   isi gambar disini
+      isi gambar disini
    
-8. Menu **Data ROOM** blablabla
+8. Menu **Data ROOM** 
    
    a. **Fitur Docs** blablabla
 
+      isi gambar disini
+
    b. **Fitur Files** blablabla
+
+      isi gambar disini
 
    c. **Fitur Reports** blablabla
 
-   isi gambar disini
+      isi gambar disini
 
 3. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
 
