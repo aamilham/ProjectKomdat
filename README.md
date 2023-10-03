@@ -165,9 +165,9 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
    a. **Fitur To Dos** berguna untuk mengatur, melacak, dan mengelola pekerjaan atau tugas dengan tingkat prioritas dan batas waktu. Fitur ini memiliki beberapa tampilan yaitu Table, Kanban, List, Timeline, dan Calendar.
 
-![To-Dos_Table](Img/To-dos_Table.png)
+![To-Dos_Table](Img/To-dos_table.png)
 
-![To-Dos_Kanban](Img/To-dos_Kanban.png)
+![To-Dos_Kanban](Img/To-dos_kanban.png)
    
    b. **Fitur Goals**. Fitur ini digunakan untuk menetapkan tujuan, mengukur kemajuan terhadap tujuan tersebut, dan melihat pencapaian tujuan dengan adanya progress bar serta informasi status tujuan tersebut (On track, Risk, atau Miss).
 
