@@ -239,7 +239,7 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
   1. Antarmuka pengguna yang ramah
      - Leantime memiliki antar pengguna yang bersih dan mudah digunakan sehingga memudahkan pengguna baru dalam menggunakan aplikasi ini.
        
-       ![benef1](Img/benef1.png)
+       ![benef1](Img/To-dos_kanban.png)
 
   
   2. Manajemen tugas yang baik
