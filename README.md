@@ -260,7 +260,7 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
   1. Terbatasnya versi gratis
      - Leantime memiliki versi gratis, namun memiliki keterbatasan jumlah pengguna, proyek, serta fitur yang dapat digunakan. Untuk menggunakan fitur yang lebih canggih, kita perlu berlangganan dengan incian harga sebagai berikut
 
-       ![disav1](Img/disav1.png)
+       ![disav1](Img/Pricing.png)
        
   2. Kurangnya integrasi
      - Leantime nelum bisa banyak melakukan integrasi dengan alat – alat yang lain seperti mengimport fitur tambahan dari luar aplikasi. Beberapa alat tambahan yang bisa digunakan dari luar yaitu Google Calendar dan Slack.
