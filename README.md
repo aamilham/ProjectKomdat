@@ -157,45 +157,45 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
    ![Home Page](Img/home.png)
    
-1. Menu **Project Overview/Dasboard** blablabla
+1. Menu **Project Overview/Dasboard**. Fitur ini berguna untuk melihat progress pada proyek yang dapat memberikan visibilitas dengan baik terhadap proyek kepada semua pihak yang terlibat. Fitur ini terdiri dari Project Checklist (Definisi scope hingga implementation), Latest To-Dos, Daftar team proyek, Project progress Diagram, dan Project Updates, Milestones Proyek.
 
    isi gambar disini
    
-3. Menu **Make**
+3. Menu **Make**. Fitur ini memungkinkan pengguna untuk membuat task dan goals yang dapat dicatat dalam proyek, serta progress dari task yang dapat dipantau.
    
-   a. **Fitur To Dos** blablabla
+   a. **Fitur To Dos**. Fitur ini berguna untuk mengatur, melacak, dan mengelola pekerjaan atau tugas dengan memberi tingkat prioritas dan menetapkan batas waktu sehingga lebih efisien. Fitur ini memiliki beberapa view method yaitu Table, Kanban, List, Timeline, dan Calendar.
 
       isi gambar disini
    
-   b. **Fitur Goals** blablabla
+   b. **Fitur Goals**. Fitur ini digunakan untuk menetapkan tujuan, mengukur kemajuan terhadap tujuan tersebut, dan melihat pencapaian tujuan dengan adanya progress bar serta informasi status tujuan tersebut (On track, Risk, atau Miss).
 
       isi gambar disini
    
-4. Menu **Think** 
+4. Menu **Think**. Fitur ini menjadi bagian yang penting untuk merencanakan, mengumpulkan ide, dan melakukan retrospektif. Fitur ini membantu tim dalam mengembangkan konsep, merancang rencana, serta merefleksikan kinerja proyek secara berkala.
   
-   a. **Fitur Ideas** blablabla
+   a. **Fitur Ideas**. Fitur ini digunakan untuk menciptakan, menyimpan, dan mengembangkan ide-ide yang mungkin akan digunakan dalam proyek dengan 2 view yaitu Idea Wall dan Idea Kanban. Tim dapat berkolaborasi untuk membagikan dan mengembangkan ide, memberikan komentar, dan menilai ide-ide tersebut.
 
       isi gambar disini
 
-   b. **Fitur Blueprints** blablabla
+   b. **Fitur Blueprints**. Fitur ini digunakan untuk merancang dan merencanakan proyek atau perubahan dalam bisnis. Dengan beberapa template yang tersedia, tim dapat menelusuri pelanggan, masalah, dan solusi sehingga dapat merencanakan pelaksanaan proyek secara terinci.
 
       isi gambar disini
 
-   c. **Fitur Retrospectives** blablabla
+   c. **Fitur Retrospectives**. Fitur ini digunakan untuk merefleksikan kinerja proyek, mengevaluasi pencapaian, serta mengidentifikasi pelajaran yang dapat dipetik untuk perbaikan selanjutnya. Tim proyek dapat melakukan retrospektif secara berkala untuk membahas apa yang telah berhasil, apa yang tidak berhasil, dan bagaimana dapat melakukan perbaikan.
    
       isi gambar disini
    
-5. Menu **Data ROOM** 
+5. Menu **Data ROOM**. Fitur ini digunakan untuk mengelola berbagai jenis dokumen, file, dan laporan yang berkaitan dengan proyek, sehingga semua data terorganisir dengan baik.
    
-   a. **Fitur Docs** blablabla
+   a. **Fitur Docs**. Fitur ini digunakan untuk mengelola dan menyimpan dokumen proyek, sehingga memungkinkan akses mudah ke dokumen-dokumen penting, mengurangi risiko kehilangan informasi, dan memfasilitasi kerja sama tim dalam pengembangan dan pelaksanaan proyek. Kita dapat mengunggah, mengedit, dan berbagi dokumen dengan anggota tim proyek.
 
       isi gambar disini
 
-   b. **Fitur Files** blablabla
+   b. **Fitur Files**. Fitur ini adalah tempat untuk mengelola berkas digital, seperti gambar, video, presentasi, spreadsheet, atau jenis file lain yang relevan dengan proyek. Kita dapat mengunggah file, menyimpan file, mengatur file, hingga ambil video atau rekaman layar secara langsung.
 
       isi gambar disini
 
-   c. **Fitur Reports** blablabla
+   c. **Fitur Reports**. Fitur ini berisi tentang hasil laporan terkait pengerjaan proyek yang terdiri dari Summary, Sprint Burndown, Cumulative Flow, hingga Project Progress. Fitur ini membantu dalam melacak kemajuan proyek, memberikan wawasan yang diperlukan untuk pengambilan keputusan, dan memfasilitasi komunikasi efektif dengan tim proyek dan pemangku kepentingan.
 
       isi gambar disini
    
