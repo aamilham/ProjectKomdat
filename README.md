@@ -239,7 +239,7 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
   1. Antarmuka pengguna yang ramah
      - Leantime memiliki antar pengguna yang bersih dan mudah digunakan sehingga memudahkan pengguna baru dalam menggunakan aplikasi ini.
        
-       ![benef1](Img/To-dos_kanban.png)
+       ![benef1](Img/Kanban.png)
   
   2. Manajemen tugas yang baik
      - Aplikasi Leantime memungkinkan tim untuk membuat, mengedit, dan mengatur tugas-tugas proyek yang ada sehingga dapat mengikuti perkembangan progress dengan baik.
@@ -247,12 +247,12 @@ Leantime sebagai alat yang dirancang untuk mengelola proyek dengan lebih efektif
   3. Bisa membantu memperkirakan biaya proyek atau produktivitas dengan fitur pelacakan waktu
      - Terdapat fitur pelacakan waktu yang memungkinkan tim untuk mencatat jam kerja mereka pada proyek-proyek tertentu. Hal ini bisa membantu perhitungan upah serta memantau efisiensi dan efektivitas pekerjaan.
 
-       ![benef3](Img/benef3.png)
+       ![benef3](Img/Timeline.png)
 
   4. Pelaporan dan analisis
      - Leantime dapat memberikan laporan proyek dengan mudah. Sehingga bisa membantu dalam pemantauan dan analisis kinerja proyek.
 
-       ![benef4](Img/benef4.png)
+       ![benef4](Img/Reports_1.png)
 
 
 
