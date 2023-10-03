@@ -159,19 +159,19 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
 1. Menu **Project Overview/Dasboard**. Fitur ini memberikan visibilitas proyek kepada semua pihak dengan Project Checklist, Latest To-Dos, Daftar team proyek, Project progress Diagram, dan Project Updates, Milestones Proyek.
    
- ![Dash Board](Img/ProjectOverview.png)
+   ![Dash Board](Img/ProjectOverview.png)
    
 3. Menu **Make**. Fitur ini berisi:
    
    a. **Fitur To Dos** berguna untuk mengatur, melacak, dan mengelola pekerjaan atau tugas dengan tingkat prioritas dan batas waktu. Fitur ini memiliki beberapa tampilan yaitu Table, Kanban, List, Timeline, dan Calendar.
 
-![To-Dos_Table](Img/To-dos_table.png)
+    ![To-Dos_Table](Img/To-dos_table.png)
 
-![To-Dos_Kanban](Img/To-dos_kanban.png)
+    ![To-Dos_Kanban](Img/To-dos_kanban.png)
    
-   b. **Fitur Goals**. Fitur ini digunakan untuk menetapkan tujuan, mengukur kemajuan terhadap tujuan tersebut, dan melihat pencapaian tujuan dengan adanya progress bar serta informasi status tujuan tersebut (On track, Risk, atau Miss).
+  b. **Fitur Goals**. Fitur ini digunakan untuk menetapkan tujuan, mengukur kemajuan terhadap tujuan tersebut, dan melihat pencapaian tujuan dengan adanya progress bar serta informasi status tujuan tersebut (On track, Risk, atau Miss).
 
-![Goals](Img/Goals.png)
+    ![Goals](Img/Goals.png)
    
 4. Menu **Think**. Fitur ini berisi:
   
