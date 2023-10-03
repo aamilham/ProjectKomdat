@@ -157,13 +157,13 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
    ![Home Page](Img/home.png)
    
-1. Menu **Project Overview/Dasboard**. Fitur ini berguna untuk melihat progress pada proyek yang dapat memberikan visibilitas dengan baik terhadap proyek kepada semua pihak yang terlibat. Fitur ini terdiri dari Project Checklist (Definisi scope hingga implementation), Latest To-Dos, Daftar team proyek, Project progress Diagram, dan Project Updates, Milestones Proyek.
+1. Menu **Project Overview/Dasboard**. Fitur ini memberikan visibilitas proyek kepada semua pihak dengan Project Checklist, Latest To-Dos, Daftar team proyek, Project progress Diagram, dan Project Updates, Milestones Proyek.
 
    isi gambar disini
    
-3. Menu **Make**. Fitur ini memungkinkan pengguna untuk membuat task dan goals yang dapat dicatat dalam proyek, serta progress dari task yang dapat dipantau.
+3. Menu **Make**. Fitur ini berisi:
    
-   a. **Fitur To Dos**. Fitur ini berguna untuk mengatur, melacak, dan mengelola pekerjaan atau tugas dengan memberi tingkat prioritas dan menetapkan batas waktu sehingga lebih efisien. Fitur ini memiliki beberapa view method yaitu Table, Kanban, List, Timeline, dan Calendar.
+   a. **Fitur To Dos** berguna untuk mengatur, melacak, dan mengelola pekerjaan atau tugas dengan tingkat prioritas dan batas waktu. Fitur ini memiliki beberapa tampilan yaitu Table, Kanban, List, Timeline, dan Calendar.
 
       isi gambar disini
    
@@ -171,7 +171,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
       isi gambar disini
    
-4. Menu **Think**. Fitur ini menjadi bagian yang penting untuk merencanakan, mengumpulkan ide, dan melakukan retrospektif. Fitur ini membantu tim dalam mengembangkan konsep, merancang rencana, serta merefleksikan kinerja proyek secara berkala.
+4. Menu **Think**. Fitur ini berisi:
   
    a. **Fitur Ideas**. Fitur ini digunakan untuk menciptakan, menyimpan, dan mengembangkan ide-ide yang mungkin akan digunakan dalam proyek dengan 2 view yaitu Idea Wall dan Idea Kanban. Tim dapat berkolaborasi untuk membagikan dan mengembangkan ide, memberikan komentar, dan menilai ide-ide tersebut.
 
