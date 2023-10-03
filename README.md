@@ -163,60 +163,70 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
 3. Menu **Make**. Fitur ini berisi:
    
-   a. **Fitur To Dos** berguna untuk mengatur, melacak, dan mengelola pekerjaan atau tugas dengan tingkat prioritas dan batas waktu. Fitur ini memiliki beberapa tampilan yaitu Table, Kanban, List, Timeline, dan Calendar.
-
+   a. **Fitur To Dos**. Fitur ini berguna untuk mengatur, melacak, dan mengelola pekerjaan atau tugas dengan tingkat prioritas dan batas waktu. Fitur ini memiliki beberapa tampilan yaitu Table, Kanban, List, Timeline, dan Calendar.
+   
+    - **Table View**
     ![To-Dos_Table](Img/To-dos_table.png)
 
+    - **Kanban View**
     ![To-Dos_Kanban](Img/To-dos_kanban.png)
    
    b. **Fitur Goals**. Fitur ini digunakan untuk menetapkan tujuan, mengukur kemajuan terhadap tujuan tersebut, dan melihat pencapaian tujuan dengan adanya progress bar serta informasi status tujuan tersebut (On track, Risk, atau Miss).
 
     ![Goals](Img/Goals.png)
    
-4. Menu **Think**. Fitur ini berisi:
+5. Menu **Think**. Fitur ini berisi:
   
-   a. **Fitur Ideas**. Fitur ini digunakan untuk menciptakan, menyimpan, dan mengembangkan ide-ide yang mungkin akan digunakan dalam proyek dengan 2 view yaitu Idea Wall dan Idea Kanban. Tim dapat berkolaborasi untuk membagikan dan mengembangkan ide, memberikan komentar, dan menilai ide-ide tersebut.
+   a. **Fitur Ideas**. Fitur ini untuk membuat, menyimpan, dan mengembangkan ide dalam proyek dengan dua tampilan yaitu Idea Wall dan Idea Kanban. 
 
-      isi gambar disini
+      - **Idea Wall**
+      ![Ideas_Wall](Img/Ideas_Wall.png)
 
-   b. **Fitur Blueprints**. Fitur ini digunakan untuk merancang dan merencanakan proyek atau perubahan dalam bisnis. Dengan beberapa template yang tersedia, tim dapat menelusuri pelanggan, masalah, dan solusi sehingga dapat merencanakan pelaksanaan proyek secara terinci.
+      - **Idea Kanban**
+      ![Ideas_Kanban](Img/Ideas_Kanban.png)
 
-      isi gambar disini
+   b. **Fitur Blueprints**. Fitur ini digunakan untuk merancang dan merencanakan proyek. Dengan beberapa template yang tersedia, tim dapat menelusuri pelanggan, masalah, dan solusi sehingga dapat merencanakan pelaksanaan proyek secara rinci.
 
-   c. **Fitur Retrospectives**. Fitur ini digunakan untuk merefleksikan kinerja proyek, mengevaluasi pencapaian, serta mengidentifikasi pelajaran yang dapat dipetik untuk perbaikan selanjutnya. Tim proyek dapat melakukan retrospektif secara berkala untuk membahas apa yang telah berhasil, apa yang tidak berhasil, dan bagaimana dapat melakukan perbaikan.
+      - **Project Blueprints**
+      ![Blueprints](Img/Blueprints.png)
+
+      - **Lean Canvas Board pada Project Blueprints**
+      ![Blueprints_LeanCanvas](Img/Blueprints_Leancanvas.png)
+
+   c. **Fitur Retrospectives**. Fitur ini berguna untuk merefleksikan kinerja proyek, mengevaluasi pencapaian, dan mengidentifikasi pelajaran untuk perbaikan selanjutnya melalui retrospektif tim proyek.
    
-      isi gambar disini
+      ![Retrospectives](Img/Retrospectives.png)
    
-5. Menu **Data ROOM**. Fitur ini digunakan untuk mengelola berbagai jenis dokumen, file, dan laporan yang berkaitan dengan proyek, sehingga semua data terorganisir dengan baik.
+6. Menu **Data ROOM**. Fitur ini berisi:
    
-   a. **Fitur Docs**. Fitur ini digunakan untuk mengelola dan menyimpan dokumen proyek, sehingga memungkinkan akses mudah ke dokumen-dokumen penting, mengurangi risiko kehilangan informasi, dan memfasilitasi kerja sama tim dalam pengembangan dan pelaksanaan proyek. Kita dapat mengunggah, mengedit, dan berbagi dokumen dengan anggota tim proyek.
+   a. **Fitur Docs**. Fitur ini mengelola dan menyimpan dokumen proyek, memudahkan akses dan kerja sama tim dalam pengembangan dan pelaksanaan proyek dengan mengunggah, mengedit, dan berbagi dokumen.
 
-      isi gambar disini
+      ![Docs](Img/Docs.png)
 
-   b. **Fitur Files**. Fitur ini adalah tempat untuk mengelola berkas digital, seperti gambar, video, presentasi, spreadsheet, atau jenis file lain yang relevan dengan proyek. Kita dapat mengunggah file, menyimpan file, mengatur file, hingga ambil video atau rekaman layar secara langsung.
+   b. **Fitur Files**. Fitur ini adalah tempat untuk mengelola berkas digital, seperti gambar, video, dan lainnya. Fitur ini memungkinkan untuk mengunggah file, menyimpan file, mengatur file, hingga perekaman video atau layar secara langsung.
 
-      isi gambar disini
+      ![Files](Img/Files.png)
 
-   c. **Fitur Reports**. Fitur ini berisi tentang hasil laporan terkait pengerjaan proyek yang terdiri dari Summary, Sprint Burndown, Cumulative Flow, hingga Project Progress. Fitur ini membantu dalam melacak kemajuan proyek, memberikan wawasan yang diperlukan untuk pengambilan keputusan, dan memfasilitasi komunikasi efektif dengan tim proyek dan pemangku kepentingan.
+   c. **Fitur Reports**. Fitur ini berisi laporan proyek seperti Summary, Sprint Burndown, Cumulative Flow, dan Project Progress yang dapat membantu tim dalam memantau kemajuan proyek dan pengambilan keputusan yang tepat
 
-      isi gambar disini
+      ![Reports](Img/Reports.png)
    
-6. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. Fitur **My Profile** digunakan untuk melihat account settings berupa informasi profil, 
+7. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. Fitur **My Profile** digunakan untuk melihat account settings berupa informasi profil, 
    keamanan, look and feel, dan notifikasi
 
    ![Profile Page](Img/profile.png)
 
-7. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
+8. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
 
    ![My Project Page](Img/myproject.png)
    
-8. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects 
+9. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects 
    berguna untuk melihat keseluruhan project yang ada, All client berguna untuk melihat nama klien, dan User Management berguna untuk melihat ada berapa user atau pengguna 
    website Leantime
 
    ![Company Page](Img/company.png)
 
-9. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk
+10. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk
 
    ![Notification Page](Img/notification.png)
    
