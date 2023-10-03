@@ -171,7 +171,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
       isi gambar disini
    
-5. Menu **Think** 
+4. Menu **Think** 
   
    a. **Fitur Ideas** blablabla
 
@@ -185,7 +185,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    
       isi gambar disini
    
-8. Menu **Data ROOM** 
+5. Menu **Data ROOM** 
    
    a. **Fitur Docs** blablabla
 
@@ -198,24 +198,26 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
    c. **Fitur Reports** blablabla
 
       isi gambar disini
-
-3. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
-
-   ![My Project Page](Img/myproject.png)
-
-4. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk
-
-   ![Notification Page](Img/notification.png)
    
-6. Fitur **My Profile**. Pada fitur ini kita dapat melihat account settings berupa informasi profil, keamanan, look and feel, dan notifikasi
+6. Pada bagian pojok kanan atas, terdapat beberapa fitur yang dapat kita gunakan. Fitur **My Profile** digunakan untuk melihat account settings berupa informasi profil, 
+   keamanan, look and feel, dan notifikasi
 
    ![Profile Page](Img/profile.png)
 
-5. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects 
-   berguna untuk melihat keseluruhan project yang
-   ada, All client berguna untuk melihat nama klien, dan User Management berguna untuk melihat ada berapa user atau pengguna website Leantime
+7.  **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
+
+   ![My Project Page](Img/myproject.png)
+   
+8. Fitur **Company**. Pada fitur ini, terdapat beberapa pilihan yaitu All Timesheets berguna untuk melihat keseluruhan waktu/jam yang sudah digunakan, All Projects 
+   berguna untuk melihat keseluruhan project yang ada, All client berguna untuk melihat nama klien, dan User Management berguna untuk melihat ada berapa user atau pengguna 
+   website Leantime
 
    ![Company Page](Img/company.png)
+
+9. Fitur **Notification** digunakan untuk melihat notifikasi dan mention yang masuk
+
+   ![Notification Page](Img/notification.png)
+   
    
 # Pembahasan
 
