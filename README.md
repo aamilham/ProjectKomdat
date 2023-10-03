@@ -204,7 +204,7 @@ Penggunaan **PM Leantime** sangat simpel, karena aplikasi ini dilengkapi dengan 
 
    ![Profile Page](Img/profile.png)
 
-7.  **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
+7. **Fitur My Project** digunakan untuk melihat project apa saja yang kita miliki
 
    ![My Project Page](Img/myproject.png)
    
